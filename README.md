@@ -27,4 +27,5 @@ I believe in learning by doing, staying curious, and making consistent progress.
 I'm always open to connecting with fellow learners, data professionals, and people working in technology.
 - 💼 LinkedIn: https://www.linkedin.com/in/tanjet-787493202?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 - 📧 Email: tanjett@mun.ca
-Thanks for stopping by! Feel free to explore my repositories and follow along with my journey.
+Thanks for stopping by!
+Feel free to explore my repositories and follow along with my journey.
